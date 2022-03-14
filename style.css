@@ -184,6 +184,9 @@ input[type="submit"]{
 footer{
     margin-top: 100px;
 }
+footer .rodape{
+    color: #0B6AD1;
+}
 .social h3{
     color: #fff;
     font-weight: normal;
@@ -193,3 +196,5 @@ footer{
     width: 30px;
     margin-left: 15px;
 }
+
+
